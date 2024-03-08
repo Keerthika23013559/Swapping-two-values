@@ -18,7 +18,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-"C:\Users\keert\OneDrive\Pictures\python.jpg"
+![python](https://github.com/Keerthika23013559/Swapping-two-values/assets/162658262/970d95a4-571e-48a7-beef-36b96d9761ff)
+
 
 
 
