@@ -18,9 +18,15 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-![python](https://github.com/Keerthika23013559/Swapping-two-values/assets/162658262/970d95a4-571e-48a7-beef-36b96d9761ff)
+```
+ball1=input()
+ball2=input()
+ball1,ball2=ball2,ball1
+print(f"Swapped values are: {ball1} {ball2}")
+```
 
-
+## OUTPUT:
+![Screenshot 2024-04-11 155530](https://github.com/Keerthika23013559/Swapping-two-values/assets/162658262/f90da648-0217-41f5-bf43-05d2d010a900)
 
 
 ## RESULT:
